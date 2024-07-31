@@ -12,6 +12,7 @@ packaging = "*"
 scikit-learn = "*"
 nltk = "*"
 urlextract = "*"
+graphviz = "*"
 
 [dev-packages]
 
